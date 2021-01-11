@@ -1,6 +1,3 @@
-// useDebugValue: useMedia
-// http://localhost:3000/isolated/final/06.js
-
 import * as React from 'react'
 
 function useMedia(query, initialState = false) {
